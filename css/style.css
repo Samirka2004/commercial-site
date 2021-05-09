@@ -654,11 +654,12 @@ line-height: 29px;
    .feedback__images {
       width: 100%;
    }
+
    .footer,
    .feedback,
    .reviews,
    .bennefits,
-   .rent, {
+   .rent {
       padding: 50px 0;
    }
 }
@@ -715,8 +716,6 @@ line-height: 29px;
 }
 
 @media (max-width:410px) {
-   .top__item {
-   }
    .top__links {
       text-align: center;
    }
